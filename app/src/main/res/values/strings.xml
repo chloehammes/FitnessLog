@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FitnessLog</string>
+    <string name="fitness_title_hint">Enter a title for the log.</string>
+    <string name="fitness_title_label">Title</string>
+    <string name="fitness_notes_hint">Record your notes from today.</string>
+    <string name="fitness_notes_label">Notes</string>
 </resources>
